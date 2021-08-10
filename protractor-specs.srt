@@ -1,0 +1,20 @@
+1
+00:00:02,195 --> 00:00:02,208
+<font color="green">SUCCESS</font> Check title of the page
+
+2
+00:00:02,208 --> 00:00:03,751
+<font color="green">SUCCESS</font> Check user is redirected to contact page
+
+3
+00:00:05,234 --> 00:00:08,575
+<font color="green">SUCCESS</font> Check title of the page
+
+4
+00:00:08,575 --> 00:00:09,715
+<font color="green">SUCCESS</font> Check header text is 'We are problem solvers'
+
+5
+00:00:10,776 --> 00:00:13,190
+<font color="green">SUCCESS</font> Check title of the page
+

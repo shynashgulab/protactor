@@ -1,0 +1,11 @@
+{
+    "reportDirectory":"e2e/Reports",
+    "logDirectory":"e2e/logs",
+    "logAccessFile":"e2e/logs/access.log",
+    "logAppFile":"e2e/logs/app.log",
+    "logErrorFile":"e2e/logs/errors.log",
+    "emailableReportDirectory":"e2e/emailable",
+    "gDriveCredentials":"e2e/jsons/credentials.json",
+    "gDriveToken":"e2e/jsons/token.json",
+    "reportLocation":"e2e/jsons/reportlocation.json"
+}
